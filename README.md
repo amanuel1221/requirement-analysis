@@ -120,5 +120,19 @@ Non-functional requirements describe how the system performs certain actions or 
 ---
 
 By differentiating functional and non-functional requirements, the software development team can ensure that both the core functionality and the quality attributes of the system are clearly defined and addressed during the development process.
+## Use Case Diagrams
+
+Use Case Diagrams are a visual representation of a system’s functionality from the user’s perspective.
+They illustrate the interactions between different actors (users or systems) and the system’s use cases. 
+
+### Benefits of Use Case Diagrams:
+- Provide a high-level understanding of system functionality.
+- Help in defining the scope of the system.
+- Improve communication between stakeholders.
+- Assist in identifying required system components and their interactions.
+- ![alx-booking-uc.png](https://github.com/user-attachments/assets/22892b10-cef3-4456-9e4d-e0ce7fa4bcc8)
+
+
+
 
 
