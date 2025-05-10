@@ -71,6 +71,25 @@ Requirement analysis is a fundamental step in the SDLC that ensures the success 
    Requirement analysis helps ensure that the software meets user needs and business goals by gathering detailed feedback from stakeholders. By identifying potential issues early and ensuring the product aligns with expectations, development teams are more likely to build a high-quality product that satisfies users. This results in fewer defects and better end-user experiences, which directly contribute to user satisfaction.
 
 In summary, requirement analysis is vital to any software project. It helps clarify goals, manage scope, and ensure that resources are used effectively. Ultimately, it leads to better project outcomes, reduces risks, and enhances customer satisfaction.
+## Key Activities in Requirement Analysis
 
+Requirement analysis involves several key activities to ensure that the final software product aligns with stakeholder needs. Below are the five key activities involved in requirement analysis:
+
+- **Requirement Gathering**  
+  This is the process of collecting all the relevant information regarding the software's objectives from stakeholders, including customers, users, and other team members. The goal is to capture all the functional and non-functional requirements and expectations.
+
+- **Requirement Elicitation**  
+  Elicitation involves engaging stakeholders through interviews, surveys, workshops, and meetings to uncover hidden needs and expectations. This step focuses on gathering detailed insights and clarifying the requirements further to ensure that no important aspects are overlooked.
+
+- **Requirement Documentation**  
+  Once the requirements are gathered, they need to be documented in a clear, concise, and structured format. This documentation usually includes a **Requirements Specification Document (RSD)**, which outlines both functional and non-functional requirements. Proper documentation ensures that all stakeholders have a common understanding of what is to be developed.
+
+- **Requirement Analysis and Modeling**  
+  This activity involves analyzing the documented requirements to identify inconsistencies, gaps, and ambiguities. It also involves creating models, such as use case diagrams, flowcharts, or entity-relationship diagrams, to better understand the system's behavior and data flow. This phase ensures that all requirements are clear and feasible.
+
+- **Requirement Validation**  
+  Once the requirements have been analyzed and modeled, they need to be validated to ensure they meet stakeholder needs and expectations. This step involves reviewing the requirements with stakeholders to confirm accuracy, completeness, and alignment with business goals. Validation helps to ensure that the project won't face unexpected issues during the development phase.
+
+These key activities work together to ensure that the requirements are accurately captured, well-documented, and aligned with stakeholder needs, setting the stage for successful software development.
 
 
