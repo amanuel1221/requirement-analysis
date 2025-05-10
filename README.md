@@ -132,6 +132,17 @@ They illustrate the interactions between different actors (users or systems) and
 - Assist in identifying required system components and their interactions.
 - alx-booking-uc.png
 - ![alx-booking-uc png](https://github.com/user-attachments/assets/f7e408a8-b8d4-46fe-93b0-5f80d921d3ad)
+- ### Acceptance Criteria 
+
+**Scenario: Successful Checkout Process**
+- The user must be logged into the system to initiate checkout.
+- The system must display the booking summary, including service details and total cost.
+- The user must be able to select a payment method (e.g., credit card, PayPal, or mobile payment).
+- If payment is successful, the system must generate a booking confirmation with a unique reference number.
+- If payment fails, the system must notify the user and allow them to retry or choose another payment method.
+- The system must send a confirmation email to the user's registered email address upon successful booking.
+- Booking details must be stored in the database for future reference.
+
 
 
 
