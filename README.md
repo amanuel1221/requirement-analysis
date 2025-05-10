@@ -130,6 +130,7 @@ They illustrate the interactions between different actors (users or systems) and
 - Help in defining the scope of the system.
 - Improve communication between stakeholders.
 - Assist in identifying required system components and their interactions.
+- alx-booking-uc.png
 - ![alx-booking-uc.png](https://github.com/user-attachments/assets/22892b10-cef3-4456-9e4d-e0ce7fa4bcc8)
 
 
